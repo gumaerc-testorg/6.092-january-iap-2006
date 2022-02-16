@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 2a9fa6dd-88e4-5217-d7e4-4c0b036a0e19
 ---
@@ -29,7 +31,7 @@ ASSIGNMENTS
 {{< tdopen >}}
 Object Oriented Programming  
   
-JavaTM Program Structure; Primitives  
+Java{{< sup "TM" >}} Program Structure; Primitives  
   
 Control Flow  
   
@@ -38,7 +40,7 @@ Arrays
 Objects
 {{< tdclose >}}
 {{< tdopen >}}
-Lab 1: JavaTM Basics, problems 1-4
+Lab 1: Java{{< sup "TM" >}} Basics, problems 1-4
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -120,7 +122,7 @@ _Catch up on API reading for Collection, List, Map, Set, Comparator, Comparable,
   
 _Optional Homework 2  
   
-_Do optional 6.170 labs: JavaTM Basics; JUnit and JavaTM Libraries; Eclipse Debugger; Constructing GUIs with Swing
+_Do optional 6.170 labs: Java{{< sup "TM" >}} Basics; JUnit and Java{{< sup "TM" >}} Libraries; Eclipse Debugger; Constructing GUIs with Swing
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -1,15 +1,18 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 1d781a7f-7bbc-6906-d533-1506a5d21af7
 ---
 
-The second week of the course, although optional, gave students the opportunity to work on aspects of an AOL® AIMTM messaging software client.
+The second week of the course, although optional, gave students the opportunity to work on aspects of an AOL{{< sup "®" >}} AIM{{< sup "TM" >}} messaging software client.
 
 Project Files
 -------------
 
-Simple AIMTM Assignment ([PDF]({{< baseurl >}}/resources/aim_messenger))
+Simple AIM{{< sup "TM" >}} Assignment ([PDF]({{< baseurl >}}/resources/aim_messenger))
 
 Reference Implementation, saim.jar ([JAR]({{< baseurl >}}/resources/saim)) (The JAR file contains: 23 .class files, 1 .mf file, and 1 .txt file.)
 

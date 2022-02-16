@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: b1228b38-91a3-d496-98ec-772ddcb47c9d
 ---
@@ -11,7 +13,7 @@ The following materials were provided to aid students in completing the course a
 Helpful Notes
 -------------
 
-*   JavaTM Reference Handout ([PDF]({{< baseurl >}}/resources/java_ref_handout))
+*   Java{{< sup "TM" >}} Reference Handout ([PDF]({{< baseurl >}}/resources/java_ref_handout))
     
 *   Iterator ([PDF]({{< baseurl >}}/resources/iterator))
     
@@ -33,6 +35,6 @@ Helpful Notes
     
 *   Setting up Eclipse at Home ([PDF]({{< baseurl >}}/resources/work_home))
     
-*   JavaTM Style Guide ([PDF]({{< baseurl >}}/resources/java_style))
+*   Java{{< sup "TM" >}} Style Guide ([PDF]({{< baseurl >}}/resources/java_style))
     
 *   Introduction to 6.170 Tools and Infrastructure ([PDF ‑ 2.0 MB]({{< baseurl >}}/resources/ps0))

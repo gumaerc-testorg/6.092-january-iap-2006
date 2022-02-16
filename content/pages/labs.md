@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 title: Labs
 uid: c76c3609-11f2-a073-ecc1-fdfd622e1fed
 ---
@@ -29,7 +32,7 @@ SOLUTIONS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Lab 1: JavaTM Basics, Problems 1-4 ([PDF]({{< baseurl >}}/resources/problems1_4))
+Lab 1: Java{{< sup "TM" >}} Basics, Problems 1-4 ([PDF]({{< baseurl >}}/resources/problems1_4))
 {{< tdclose >}}
 {{< tdopen >}}
 Lab 1 Solutions ([PDF]({{< baseurl >}}/resources/solution_notes))  

@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 3370f7bb-850e-80d3-71fd-4bd7b0b36b3b
 ---
@@ -24,9 +27,9 @@ LECTURE NOTES
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction and JavaTM Programming by Lucy Mendel ([PDF]({{< baseurl >}}/resources/lecture1a))  
+Introduction and Java{{< sup "TM" >}} Programming by Lucy Mendel ([PDF]({{< baseurl >}}/resources/lecture1a))  
   
-JavaTM Objects by Corey McCaffrey ([PDF]({{< baseurl >}}/resources/lecture1b))
+Java{{< sup "TM" >}} Objects by Corey McCaffrey ([PDF]({{< baseurl >}}/resources/lecture1b))
 {{< tdclose >}}
 
 {{< trclose >}}
