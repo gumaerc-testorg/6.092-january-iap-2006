@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: c76c3609-11f2-a073-ecc1-fdfd622e1fed
 resourcetype: Document
 title: problem7.pdf
 uid: be0b01de-dc66-9044-8fb2-6a0871cbfcc6

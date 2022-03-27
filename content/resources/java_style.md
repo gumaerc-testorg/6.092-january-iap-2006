@@ -9,6 +9,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: b1228b38-91a3-d496-98ec-772ddcb47c9d
 resourcetype: Document
 title: java_style.pdf
 uid: dc0b5ac3-1c15-c490-11f1-e1b15e533140

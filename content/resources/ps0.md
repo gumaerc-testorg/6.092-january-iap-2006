@@ -9,6 +9,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: b1228b38-91a3-d496-98ec-772ddcb47c9d
 resourcetype: Document
 title: ps0.pdf
 uid: d3bbb675-9e1b-f179-a8f5-6545d69b99e7

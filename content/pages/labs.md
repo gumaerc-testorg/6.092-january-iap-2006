@@ -37,9 +37,9 @@ Lab 1: Java{{< sup "TM" >}} Basics, Problems 1-4 ([PDF]({{< baseurl >}}/resource
 {{< tdopen >}}
 Lab 1 Solutions ([PDF]({{< baseurl >}}/resources/solution_notes))  
   
-MathCalc.java ([JAVA](/courses/electrical-engineering-and-computer-science/6-092-java-preparation-for-6-170-january-iap-2006/labs/MathCalc.java))  
-Primes.java ([JAVA](/courses/electrical-engineering-and-computer-science/6-092-java-preparation-for-6-170-january-iap-2006/labs/Primes.java))  
-StringCharacters.java ([JAVA](/courses/electrical-engineering-and-computer-science/6-092-java-preparation-for-6-170-january-iap-2006/labs/StringCharacters.java))
+MathCalc.java ([JAVA]({{< baseurl >}}/resources/mathcalc))  
+Primes.java ([JAVA]({{< baseurl >}}/resources/primes))  
+StringCharacters.java ([JAVA]({{< baseurl >}}/resources/stringcharacters))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +52,7 @@ Lab 1 (cont.): Balls and Boxes, problem 7 ([PDF]({{< baseurl >}}/resources/probl
 {{< tdclose >}}
 {{< tdopen >}}
 Box.java ([JAVA](/courses/electrical-engineering-and-computer-science/6-092-java-preparation-for-6-170-january-iap-2006/labs/Box.java))  
-Ball.java ([JAVA](/courses/electrical-engineering-and-computer-science/6-092-java-preparation-for-6-170-january-iap-2006/labs/Ball.java))  
+Ball.java ([JAVA]({{< baseurl >}}/resources/ball))  
 BallContainer.java ([JAVA](/courses/electrical-engineering-and-computer-science/6-092-java-preparation-for-6-170-january-iap-2006/labs/BallContainer.java))  
 BoxTest.java ([JAVA](/courses/electrical-engineering-and-computer-science/6-092-java-preparation-for-6-170-january-iap-2006/labs/BoxTest.java))
 {{< tdclose >}}
@@ -70,13 +70,13 @@ junit.zip ([ZIP]({{< baseurl >}}/resources/junit)) (The ZIP file contains: 100 .
   
 lab2.tar.gz ([GZ]({{< baseurl >}}/resources/lab2tar)) (The GZ file contains: 7 .java files, 1 .classpath file, and 1 .project file.)  
   
-MadLib.java ([JAVA](/courses/electrical-engineering-and-computer-science/6-092-java-preparation-for-6-170-january-iap-2006/labs/MadLib.java))  
-MadLibTemplate.java ([JAVA](/courses/electrical-engineering-and-computer-science/6-092-java-preparation-for-6-170-january-iap-2006/labs/MadLibTemplate.java))  
-MadLibTest.java ([JAVA](/courses/electrical-engineering-and-computer-science/6-092-java-preparation-for-6-170-january-iap-2006/labs/MadLibTest.java))  
-MadHamlet.java ([JAVA](/courses/electrical-engineering-and-computer-science/6-092-java-preparation-for-6-170-january-iap-2006/labs/MadHamlet.java))  
-MadHello.java ([JAVA](/courses/electrical-engineering-and-computer-science/6-092-java-preparation-for-6-170-january-iap-2006/labs/MadHello.java))  
-StdStreamUI.java ([JAVA](/courses/electrical-engineering-and-computer-science/6-092-java-preparation-for-6-170-january-iap-2006/labs/StdStreamUI.java))  
-UserInterface.java ([JAVA](/courses/electrical-engineering-and-computer-science/6-092-java-preparation-for-6-170-january-iap-2006/labs/UserInterface.java))
+MadLib.java ([JAVA]({{< baseurl >}}/resources/madlib))  
+MadLibTemplate.java ([JAVA]({{< baseurl >}}/resources/madlibtemplate))  
+MadLibTest.java ([JAVA]({{< baseurl >}}/resources/madlibtest))  
+MadHamlet.java ([JAVA]({{< baseurl >}}/resources/madhamlet))  
+MadHello.java ([JAVA]({{< baseurl >}}/resources/madhello))  
+StdStreamUI.java ([JAVA]({{< baseurl >}}/resources/stdstreamui))  
+UserInterface.java ([JAVA]({{< baseurl >}}/resources/userinterface))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,12 +90,12 @@ Lab 3: Comparators and Ordering ([PDF]({{< baseurl >}}/resources/lab3))
 {{< tdopen >}}
 lab3.tar.gz ([GZ]({{< baseurl >}}/resources/lab3tar)) (The GZ file contains: 6 .java files, and 1 java~ file.)  
   
-AntiAliasJButton.java ([JAVA](/courses/electrical-engineering-and-computer-science/6-092-java-preparation-for-6-170-january-iap-2006/labs/AntiAliasJButton.java))  
-AntiAliasJLabel.java ([JAVA](/courses/electrical-engineering-and-computer-science/6-092-java-preparation-for-6-170-january-iap-2006/labs/AntiAliasJLabel.java))  
-ComparatorExample.java ([JAVA](/courses/electrical-engineering-and-computer-science/6-092-java-preparation-for-6-170-january-iap-2006/labs/ComparatorExample.java))  
-ExtendedTableRenderer.java ([JAVA](/courses/electrical-engineering-and-computer-science/6-092-java-preparation-for-6-170-january-iap-2006/labs/ExtendedTableRenderer.java))  
-PeopleComparator.java ([JAVA](/courses/electrical-engineering-and-computer-science/6-092-java-preparation-for-6-170-january-iap-2006/labs/PeopleComparator.java))  
-Person.java ([JAVA](/courses/electrical-engineering-and-computer-science/6-092-java-preparation-for-6-170-january-iap-2006/labs/Person.java))
+AntiAliasJButton.java ([JAVA]({{< baseurl >}}/resources/antialiasjbutton))  
+AntiAliasJLabel.java ([JAVA]({{< baseurl >}}/resources/antialiasjlabel))  
+ComparatorExample.java ([JAVA]({{< baseurl >}}/resources/comparatorexample))  
+ExtendedTableRenderer.java ([JAVA]({{< baseurl >}}/resources/extendedtablerenderer))  
+PeopleComparator.java ([JAVA]({{< baseurl >}}/resources/peoplecomparator))  
+Person.java ([JAVA]({{< baseurl >}}/resources/person))
 {{< tdclose >}}
 
 {{< trclose >}}

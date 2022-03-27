@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: b1228b38-91a3-d496-98ec-772ddcb47c9d
 resourcetype: Document
 title: overriding.pdf
 uid: 14cb5705-787c-5469-a2b6-c1fc0b929a3d

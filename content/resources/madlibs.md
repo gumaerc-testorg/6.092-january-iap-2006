@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: c76c3609-11f2-a073-ecc1-fdfd622e1fed
 resourcetype: Document
 title: madlibs.pdf
 uid: c3129f07-5e78-583e-19f3-2d0e2f40289d

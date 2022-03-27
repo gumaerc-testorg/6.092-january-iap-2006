@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: b1228b38-91a3-d496-98ec-772ddcb47c9d
 resourcetype: Document
 title: work_home.pdf
 uid: cf31d74a-835f-e60d-3acd-37726772de2d

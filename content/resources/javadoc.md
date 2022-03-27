@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 1d781a7f-7bbc-6906-d533-1506a5d21af7
 resourcetype: Document
 title: javadoc.pdf
 uid: d9a4b4c7-e904-04b7-c6d1-00c65ecd7322

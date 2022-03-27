@@ -18,4 +18,4 @@ Reference Implementation, saim.jar ([JAR]({{< baseurl >}}/resources/saim)) (The 
 
 Source Code Handout, saim-handout.tar.gz ([GZ]({{< baseurl >}}/resources/saimhandouttar)) (The GZ file contains: 15 .java files, and 1 .txt file.)
 
-TOC2 Protocol, TOC2.txt ([TXT](/courses/electrical-engineering-and-computer-science/6-092-java-preparation-for-6-170-january-iap-2006/projects/TOC2.txt))
+TOC2 Protocol, TOC2.txt ([TXT]({{< baseurl >}}/resources/toc2))

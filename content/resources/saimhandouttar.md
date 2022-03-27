@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 1d781a7f-7bbc-6906-d533-1506a5d21af7
 resourcetype: Other
 title: saimhandouttar.gz
 uid: 0d21cc5a-c038-a701-9bd8-05a1441f8efa
