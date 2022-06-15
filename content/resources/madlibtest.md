@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-092-java-preparation-for-6-170-january-iap-2006/cd4a756f8b9d5d89721f0dcf0f0a0d47_MadLibTest.java
+file: /courses/6-092-java-preparation-for-6-170-january-iap-2006/cd4a756f8b9d5d89721f0dcf0f0a0d47_MadLibTest.java
 file_type: text/plain
 learning_resource_types:
 - Labs

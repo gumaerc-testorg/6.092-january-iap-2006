@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains java code for mad libs-style, and is a part of lab
   2.
-file: /media/courses/6-092-java-preparation-for-6-170-january-iap-2006/e6e2d2c1553b245350be117847d6d0df_MadHello.java
+file: /courses/6-092-java-preparation-for-6-170-january-iap-2006/e6e2d2c1553b245350be117847d6d0df_MadHello.java
 file_type: text/plain
 learning_resource_types:
 - Labs
@@ -14,3 +14,5 @@ resourcetype: Other
 title: MadHello.java
 uid: e6e2d2c1-553b-2453-50be-117847d6d0df
 ---
+This file contains java code for mad libs-style, and is a part of lab 2.
+

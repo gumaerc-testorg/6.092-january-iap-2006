@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains java code for parts of hamlet's favorite soliloquy,
   in MadLibs, and is a part of lab 2.
-file: /media/courses/6-092-java-preparation-for-6-170-january-iap-2006/1b8742ff220388b25629fe3bdb497a92_MadHamlet.java
+file: /courses/6-092-java-preparation-for-6-170-january-iap-2006/1b8742ff220388b25629fe3bdb497a92_MadHamlet.java
 file_type: text/plain
 learning_resource_types:
 - Labs
@@ -14,3 +14,5 @@ resourcetype: Other
 title: MadHamlet.java
 uid: 1b8742ff-2203-88b2-5629-fe3bdb497a92
 ---
+This file contains java code for parts of hamlet's favorite soliloquy, in MadLibs, and is a part of lab 2.
+

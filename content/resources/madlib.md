@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains java code and talks about public class MadLib
   extends MadLibTemplate.
-file: /media/courses/6-092-java-preparation-for-6-170-january-iap-2006/78388a8f8c12324516991e2f856b2b98_MadLib.java
+file: /courses/6-092-java-preparation-for-6-170-january-iap-2006/78388a8f8c12324516991e2f856b2b98_MadLib.java
 file_type: text/plain
 learning_resource_types:
 - Labs
@@ -14,3 +14,5 @@ resourcetype: Other
 title: MadLib.java
 uid: 78388a8f-8c12-3245-1699-1e2f856b2b98
 ---
+This resource contains java code and talks about public class MadLib extends MadLibTemplate.
+

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-092-java-preparation-for-6-170-january-iap-2006/778fa41208ec838c0fb1b1c3a2d2ea45_6092_image.jpg
+file: /courses/6-092-java-preparation-for-6-170-january-iap-2006/778fa41208ec838c0fb1b1c3a2d2ea45_6092_image.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -12,4 +12,8 @@ ocw_type: OCWImage
 resourcetype: Image
 title: 6092_image.jpg
 uid: 778fa412-08ec-838c-0fb1-b1c3a2d2ea45
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

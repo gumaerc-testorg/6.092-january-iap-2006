@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource describes the protocol between TOC and TOC clients.
-file: /media/courses/6-092-java-preparation-for-6-170-january-iap-2006/be1ee6d026fbcb524a7c32cde2ba29d0_TOC2.txt
+file: /courses/6-092-java-preparation-for-6-170-january-iap-2006/be1ee6d026fbcb524a7c32cde2ba29d0_TOC2.txt
 file_type: text/plain
 learning_resource_types:
 - Projects
@@ -13,3 +13,5 @@ resourcetype: Other
 title: TOC2.txt
 uid: be1ee6d0-26fb-cb52-4a7c-32cde2ba29d0
 ---
+This resource describes the protocol between TOC and TOC clients.
+
