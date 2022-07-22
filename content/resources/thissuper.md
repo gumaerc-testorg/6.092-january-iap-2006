@@ -5,6 +5,7 @@ description: This resource contains notes on the concept of the keywords this an
 file: /courses/6-092-java-preparation-for-6-170-january-iap-2006/ca64baed8824ba40330360582881b4a7_thissuper.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains notes on the concept of the keywords this and super in Java Language with example.
-

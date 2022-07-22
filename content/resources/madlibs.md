@@ -6,6 +6,7 @@ file: /courses/6-092-java-preparation-for-6-170-january-iap-2006/c3129f075e78583
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains a Java mad lib system and suggested representation, and four tasks about madlibs ADT in Java.
-

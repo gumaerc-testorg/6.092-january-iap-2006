@@ -6,6 +6,7 @@ file: /courses/6-092-java-preparation-for-6-170-january-iap-2006/4bb68663f2f22dd
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains an overview, support code, assignment, hepl, logging, and some more stuff based on AIM client concept.
-

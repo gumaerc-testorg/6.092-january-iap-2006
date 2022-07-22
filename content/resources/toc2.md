@@ -5,6 +5,7 @@ file: /courses/6-092-java-preparation-for-6-170-january-iap-2006/be1ee6d026fbcb5
 file_type: text/plain
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: TOC2.txt
 uid: be1ee6d0-26fb-cb52-4a7c-32cde2ba29d0
 ---
 This resource describes the protocol between TOC and TOC clients.
-

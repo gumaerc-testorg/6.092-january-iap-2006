@@ -5,6 +5,7 @@ file: /courses/6-092-java-preparation-for-6-170-january-iap-2006/3549ec234da7399
 file_type: application/zip
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains 23 .class files, 1 .mf file, and 1 .txt file.
-

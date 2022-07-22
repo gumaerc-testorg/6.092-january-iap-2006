@@ -5,6 +5,7 @@ description: This resource contains notes on the concept of eclipse, compiling c
 file: /courses/6-092-java-preparation-for-6-170-january-iap-2006/c5f56e1019794173dbe15adf1636790e_eclipse_ref.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains notes on the concept of eclipse, compiling code and running programs, and eclipse bugs in Java language with example.
-

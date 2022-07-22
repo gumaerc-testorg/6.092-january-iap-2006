@@ -6,6 +6,7 @@ file: /courses/6-092-java-preparation-for-6-170-january-iap-2006/de36ec6b9befcac
 file_type: text/plain
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: UserInterface.java
 uid: de36ec6b-9bef-cac9-8e21-ee81c16356ca
 ---
 This file contains java code for a userinterface object that provides an easy way to contact the user and ask for data.
-

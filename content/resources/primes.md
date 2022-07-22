@@ -6,6 +6,7 @@ file: /courses/6-092-java-preparation-for-6-170-january-iap-2006/8334b6bbb98e909
 file_type: text/plain
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Primes.java
 uid: 8334b6bb-b98e-9097-3f57-7588e3417d44
 ---
 This file contains java code related to public class primes, and is a part of problem set 0.
-

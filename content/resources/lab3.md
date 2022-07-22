@@ -6,6 +6,7 @@ file: /courses/6-092-java-preparation-for-6-170-january-iap-2006/372bceed4241f7c
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains understanding the existing code, and writting a comparator along with deliverables, and footnotes.
-

@@ -5,6 +5,7 @@ file: /courses/6-092-java-preparation-for-6-170-january-iap-2006/cd4a756f8b9d5d8
 file_type: text/plain
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection

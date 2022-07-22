@@ -5,6 +5,7 @@ file: /courses/6-092-java-preparation-for-6-170-january-iap-2006/0d21cc5ac038a70
 file_type: application/x-gzip
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains 15 .java files, and 1 .txt file.
-

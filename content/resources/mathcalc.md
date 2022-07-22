@@ -6,6 +6,7 @@ file: /courses/6-092-java-preparation-for-6-170-january-iap-2006/e3819f9629673db
 file_type: text/plain
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MathCalc.java
 uid: e3819f96-2967-3db0-fc82-1a9c75437e56
 ---
 This file contains java code describing the use of string function and is a part of problem set 0.
-

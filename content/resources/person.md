@@ -6,6 +6,7 @@ file: /courses/6-092-java-preparation-for-6-170-january-iap-2006/1e6fcfdd436f31f
 file_type: text/plain
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Person.java
 uid: 1e6fcfdd-436f-31f6-4313-fb0816770ca0
 ---
 This file contains java code for the person data type stores all the information for a person, and is a part of lab 3.
-

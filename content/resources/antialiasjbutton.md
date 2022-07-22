@@ -6,6 +6,7 @@ file: /courses/6-092-java-preparation-for-6-170-january-iap-2006/4ae3bbca2727bb2
 file_type: text/plain
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: AntiAliasJButton.java
 uid: 4ae3bbca-2727-bb2c-c0bb-9c3f94c3a0eb
 ---
 This file contains java code for enabling antialiasing and is a part of lab 3.
-

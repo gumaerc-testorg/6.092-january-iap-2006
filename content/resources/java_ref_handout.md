@@ -4,6 +4,7 @@ description: This resource contains program written in Java language.
 file: /courses/6-092-java-preparation-for-6-170-january-iap-2006/2dfc38a571915d4fb1df7e8888045a66_java_ref_handout.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains program written in Java language.
-

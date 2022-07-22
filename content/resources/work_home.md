@@ -5,6 +5,7 @@ description: This resource contains notes on the concept of java home, get eclip
 file: /courses/6-092-java-preparation-for-6-170-january-iap-2006/cf31d74a835fe60d3acd37726772de2d_work_home.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains notes on the concept of java home, get eclipse, CVS, disclaimers about using own tools in Java language with example.
-

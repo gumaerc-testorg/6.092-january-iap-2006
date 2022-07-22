@@ -6,6 +6,7 @@ description: This resource contains notes on the concept of Java syle guide in J
 file: /courses/6-092-java-preparation-for-6-170-january-iap-2006/dc0b5ac31c15c49011f1e1b15e533140_java_style.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains notes on the concept of Java syle guide in Java language, includes descriptive names, indentation, spacing, coments, commenting codes, TODO comments, and Javadocs for 6.170 with example.
-

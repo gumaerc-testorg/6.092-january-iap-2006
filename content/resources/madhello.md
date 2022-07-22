@@ -6,6 +6,7 @@ file: /courses/6-092-java-preparation-for-6-170-january-iap-2006/e6e2d2c1553b245
 file_type: text/plain
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MadHello.java
 uid: e6e2d2c1-553b-2453-50be-117847d6d0df
 ---
 This file contains java code for mad libs-style, and is a part of lab 2.
-

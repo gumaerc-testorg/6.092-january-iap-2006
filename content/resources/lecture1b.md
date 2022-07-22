@@ -7,6 +7,7 @@ file: /courses/6-092-java-preparation-for-6-170-january-iap-2006/f74cb0369547c5c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains review of references, objects, assignments, introduction to Java heap, assignment versus mutation, static and non-static fields, scope, and quick morals.
-
