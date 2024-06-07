@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains java code for used to reduce coding time for a colored
   button in a jtable, ans is a part of lab 3.
 file: /courses/6-092-java-preparation-for-6-170-january-iap-2006/5ad1807a656961f1721a767a4f470ba2_ExtendedTableRenderer.java
+file_size: 2814
 file_type: text/plain
 learning_resource_types:
 - Labs

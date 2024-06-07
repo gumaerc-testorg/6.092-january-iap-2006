@@ -4,6 +4,7 @@ description: This resource contains information based on the concept of iterator
   is a way to iterate through a group of objects without having to worry about how
   to traverse that group.
 file: /courses/6-092-java-preparation-for-6-170-january-iap-2006/f3115bfc37df3829d43a5a4797fc9184_iterator.pdf
+file_size: 80559
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
