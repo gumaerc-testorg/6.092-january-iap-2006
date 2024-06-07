@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains 23 .class files, 1 .mf file, and 1 .txt file.
 file: /courses/6-092-java-preparation-for-6-170-january-iap-2006/3549ec234da7399ccb58cd2a5ed075d7_saim.jar
+file_size: 28805
 file_type: application/zip
 learning_resource_types:
 - Projects

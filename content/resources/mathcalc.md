@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains java code describing the use of string function and
   is a part of problem set 0.
 file: /courses/6-092-java-preparation-for-6-170-january-iap-2006/e3819f9629673db0fc821a9c75437e56_MathCalc.java
+file_size: 438
 file_type: text/plain
 learning_resource_types:
 - Labs

@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains java code for enabling antialiasing and is a part
   of lab 3.
 file: /courses/6-092-java-preparation-for-6-170-january-iap-2006/bae07c9bf7355dc0c1ed9247f0c28088_AntiAliasJLabel.java
+file_size: 711
 file_type: text/plain
 learning_resource_types:
 - Labs
