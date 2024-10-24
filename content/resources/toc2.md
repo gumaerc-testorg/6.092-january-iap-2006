@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource describes the protocol between TOC and TOC clients.
-file: /courses/6-092-java-preparation-for-6-170-january-iap-2006/be1ee6d026fbcb524a7c32cde2ba29d0_TOC2.txt
+file: /ol-ocw-studio-app/courses/6-092-java-preparation-for-6-170-january-iap-2006/be1ee6d026fbcb524a7c32cde2ba29d0_TOC2.txt
 file_size: 20728
 file_type: text/plain
 learning_resource_types:
