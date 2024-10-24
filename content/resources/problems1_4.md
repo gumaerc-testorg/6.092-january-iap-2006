@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains four problems based on Java basics.
-file: /courses/6-092-java-preparation-for-6-170-january-iap-2006/af53955a26427bce946706eec5a9bf33_problems1_4.pdf
+file: /ol-ocw-studio-app/courses/6-092-java-preparation-for-6-170-january-iap-2006/af53955a26427bce946706eec5a9bf33_problems1_4.pdf
 file_size: 102152
 file_type: application/pdf
 learning_resource_types:

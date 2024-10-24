@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains notes on the concept of overriding in Java language
   with example.
-file: /courses/6-092-java-preparation-for-6-170-january-iap-2006/14cb5705787c5469a2b6c1fc0b929a3d_overriding.pdf
+file: /ol-ocw-studio-app/courses/6-092-java-preparation-for-6-170-january-iap-2006/14cb5705787c5469a2b6c1fc0b929a3d_overriding.pdf
 file_size: 75640
 file_type: application/pdf
 learning_resource_types: []
