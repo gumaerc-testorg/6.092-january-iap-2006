@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on hashing, class, object, switch,
   collection, map, keys, and sorting related to Java.
-file: /courses/6-092-java-preparation-for-6-170-january-iap-2006/050457e9d4f48a612421484aa1ee573c_lecture3.pdf
+file: /ol-ocw-studio-app/courses/6-092-java-preparation-for-6-170-january-iap-2006/050457e9d4f48a612421484aa1ee573c_lecture3.pdf
 file_size: 306686
 file_type: application/pdf
 learning_resource_types:

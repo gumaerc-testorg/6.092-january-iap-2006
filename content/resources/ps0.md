@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains the ways to edit,run and test Java code including
   several tools namely eclipse, CVS, and JUnit, and question answers based on the
   same.
-file: /courses/6-092-java-preparation-for-6-170-january-iap-2006/d3bbb6759e1bf179a8f56545d69b99e7_ps0.pdf
+file: /ol-ocw-studio-app/courses/6-092-java-preparation-for-6-170-january-iap-2006/d3bbb6759e1bf179a8f56545d69b99e7_ps0.pdf
 file_size: 2106579
 file_type: application/pdf
 learning_resource_types: []
