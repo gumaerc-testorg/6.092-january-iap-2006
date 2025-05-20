@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains java code for the person data type stores all the
   information for a person, and is a part of lab 3.
-file: /ol-ocw-studio-app/courses/6-092-java-preparation-for-6-170-january-iap-2006/1e6fcfdd436f31f64313fb0816770ca0_Person.java
+file: /courses/6-092-java-preparation-for-6-170-january-iap-2006/1e6fcfdd436f31f64313fb0816770ca0_Person.java
 file_size: 4721
 file_type: text/plain
 learning_resource_types:

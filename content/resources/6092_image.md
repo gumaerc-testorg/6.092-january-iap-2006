@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-092-java-preparation-for-6-170-january-iap-2006/778fa41208ec838c0fb1b1c3a2d2ea45_6092_image.jpg
+file: /courses/6-092-java-preparation-for-6-170-january-iap-2006/778fa41208ec838c0fb1b1c3a2d2ea45_6092_image.jpg
 file_size: 67325
 file_type: image/jpeg
 image_metadata:

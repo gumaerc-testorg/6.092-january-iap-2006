@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the solutions for lab 1.
-file: /ol-ocw-studio-app/courses/6-092-java-preparation-for-6-170-january-iap-2006/d50a121e38cf9448d8151c205fe400de_solution_notes.pdf
+file: /courses/6-092-java-preparation-for-6-170-january-iap-2006/d50a121e38cf9448d8151c205fe400de_solution_notes.pdf
 file_size: 38900
 file_type: application/pdf
 learning_resource_types:

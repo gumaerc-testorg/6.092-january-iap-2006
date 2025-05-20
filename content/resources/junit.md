@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-092-java-preparation-for-6-170-january-iap-2006/7bcab20a89cd4683fbf2993b9ec89eb7_junit.zip
+file: /courses/6-092-java-preparation-for-6-170-january-iap-2006/7bcab20a89cd4683fbf2993b9ec89eb7_junit.zip
 file_size: 121070
 file_type: application/zip
 learning_resource_types:

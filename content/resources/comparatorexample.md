@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains java code for a GUI for a book of names, emails, phone
   numbers, and favorite colors, and is a part of lab 3.
-file: /ol-ocw-studio-app/courses/6-092-java-preparation-for-6-170-january-iap-2006/0907f040009f91130f862478efa0a9d8_ComparatorExample.java
+file: /courses/6-092-java-preparation-for-6-170-january-iap-2006/0907f040009f91130f862478efa0a9d8_ComparatorExample.java
 file_size: 9468
 file_type: text/plain
 learning_resource_types:
