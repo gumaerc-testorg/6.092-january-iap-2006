@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains an overview, support code, assignment, hepl, logging,
   and some more stuff based on AIM client concept.
-file: /ol-ocw-studio-app/courses/6-092-java-preparation-for-6-170-january-iap-2006/4bb68663f2f22dd5b2c5354a56042db5_aim_messenger.pdf
+file: /courses/6-092-java-preparation-for-6-170-january-iap-2006/4bb68663f2f22dd5b2c5354a56042db5_aim_messenger.pdf
 file_size: 37207
 file_type: application/pdf
 learning_resource_types:

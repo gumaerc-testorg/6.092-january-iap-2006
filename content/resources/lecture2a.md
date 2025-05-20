@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains notes on Java?s object oriented system, data types,
   reference types, instances, class, constructors, methods, fields, accessors, interfaces,
   and class extension.
-file: /ol-ocw-studio-app/courses/6-092-java-preparation-for-6-170-january-iap-2006/2db153242ca1c747fd6cd7c2b497162a_lecture2a.pdf
+file: /courses/6-092-java-preparation-for-6-170-january-iap-2006/2db153242ca1c747fd6cd7c2b497162a_lecture2a.pdf
 file_size: 126930
 file_type: application/pdf
 learning_resource_types:

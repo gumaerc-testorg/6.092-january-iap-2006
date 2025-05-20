@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains review of references, objects, assignments, introduction
   to Java heap, assignment versus mutation, static and non-static fields, scope, and
   quick morals.
-file: /ol-ocw-studio-app/courses/6-092-java-preparation-for-6-170-january-iap-2006/f74cb0369547c5c3c01447427ee2a64a_lecture1b.pdf
+file: /courses/6-092-java-preparation-for-6-170-january-iap-2006/f74cb0369547c5c3c01447427ee2a64a_lecture1b.pdf
 file_size: 90683
 file_type: application/pdf
 learning_resource_types:

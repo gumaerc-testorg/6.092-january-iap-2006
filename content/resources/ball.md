@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains java code for a simple object that has a capacity
   related to problem set 0.
-file: /ol-ocw-studio-app/courses/6-092-java-preparation-for-6-170-january-iap-2006/a5c6067af287e30d91557a401b4f0d39_Ball.java
+file: /courses/6-092-java-preparation-for-6-170-january-iap-2006/a5c6067af287e30d91557a401b4f0d39_Ball.java
 file_size: 616
 file_type: text/plain
 learning_resource_types:

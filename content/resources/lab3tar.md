@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains 6 .java files, and 1 java~ file.
-file: /ol-ocw-studio-app/courses/6-092-java-preparation-for-6-170-january-iap-2006/422b6d15a4eb6caca9b68ede8f352e5b_lab3tar.gz
+file: /courses/6-092-java-preparation-for-6-170-january-iap-2006/422b6d15a4eb6caca9b68ede8f352e5b_lab3tar.gz
 file_size: 6162
 file_type: application/x-gzip
 learning_resource_types:
