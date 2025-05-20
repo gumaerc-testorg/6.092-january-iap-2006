@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains java code related to public class stringcharacters,
   and is a part of problem set 0.
-file: /ol-ocw-studio-app/courses/6-092-java-preparation-for-6-170-january-iap-2006/f00468a093a8e2910586592267daff52_StringCharacters.java
+file: /courses/6-092-java-preparation-for-6-170-january-iap-2006/f00468a093a8e2910586592267daff52_StringCharacters.java
 file_size: 738
 file_type: text/plain
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains programming in Java, and 6.170 problem sets.
-file: /ol-ocw-studio-app/courses/6-092-java-preparation-for-6-170-january-iap-2006/35389e5815c6be386befb7bd00974735_lecture1a.pdf
+file: /courses/6-092-java-preparation-for-6-170-january-iap-2006/35389e5815c6be386befb7bd00974735_lecture1a.pdf
 file_size: 182975
 file_type: application/pdf
 learning_resource_types:
