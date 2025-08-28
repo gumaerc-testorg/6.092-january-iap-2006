@@ -4,7 +4,7 @@ description: The Labs section contains lab exercise files along with their solut
   for the course.
 draft: false
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: c76c3609-11f2-a073-ecc1-fdfd622e1fed
