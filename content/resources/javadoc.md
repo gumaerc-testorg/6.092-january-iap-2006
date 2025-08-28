@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains overview of classes in Java language.
-file: /courses/6-092-java-preparation-for-6-170-january-iap-2006/d9a4b4c7e90404b7c6d100c65ecd7322_javadoc.pdf
+file: /ol-ocw-studio-app/courses/6-092-java-preparation-for-6-170-january-iap-2006/d9a4b4c7e90404b7c6d100c65ecd7322_javadoc.pdf
 file_size: 35282
 file_type: application/pdf
 learning_resource_types:

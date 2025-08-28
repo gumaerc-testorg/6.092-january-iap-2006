@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/6-092-java-preparation-for-6-170-january-iap-2006/mit6_092_iap06_lecture1a.pdf
+file: /ol-ocw-studio-app/courses/6-092-java-preparation-for-6-170-january-iap-2006/mit6_092_iap06_lecture1a.pdf
 file_size: 196064
 file_type: application/pdf
 image_metadata:

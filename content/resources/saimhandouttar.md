@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains 15 .java files, and 1 .txt file.
-file: /courses/6-092-java-preparation-for-6-170-january-iap-2006/0d21cc5ac038a7019bd805a1441f8efa_saimhandouttar.gz
+file: /ol-ocw-studio-app/courses/6-092-java-preparation-for-6-170-january-iap-2006/0d21cc5ac038a7019bd805a1441f8efa_saimhandouttar.gz
 file_size: 16496
 file_type: application/x-gzip
 learning_resource_types:
