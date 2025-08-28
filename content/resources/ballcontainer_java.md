@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/6-092-java-preparation-for-6-170-january-iap-2006/ballcontainer.java
+file: /ol-ocw-studio-app/courses/6-092-java-preparation-for-6-170-january-iap-2006/ballcontainer.java
 file_size: 2607
 file_type: text/x-java
 image_metadata:
@@ -10,7 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: BallContainer.java
