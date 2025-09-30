@@ -40,10 +40,10 @@ StringCharacters.java ({{% resource_link "f00468a0-93a8-e291-0586-592267daff52" 
 {{< tdclose >}}{{< tdopen >}}
 Lab 1 (cont.): Balls and Boxes, problem 7 ({{% resource_link "be0b01de-dc66-9044-8fb2-6a0871cbfcc6" "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}
-Box.java ([JAVA](https://ocw-studio.odl.mit.edu/courses/electrical-engineering-and-computer-science/6-092-java-preparation-for-6-170-january-iap-2006/labs/Box.java))   
+Box.java ({{% resource_link "6f39def6-0f12-43fc-b839-70fbc860b605" "JAVA" %}})   
 Ball.java ({{% resource_link "a5c6067a-f287-e30d-9155-7a401b4f0d39" "JAVA" %}})   
 BallContainer.java ({{% resource_link "f69138ad-7cb3-4ce8-95b2-dc6bca73cf29" "JAVA" %}})   
-BoxTest.java ([JAVA](https://ocw-studio.odl.mit.edu/courses/electrical-engineering-and-computer-science/6-092-java-preparation-for-6-170-january-iap-2006/labs/BoxTest.java))
+BoxTest.java ({{% resource_link "0bc89147-f916-47d3-9b14-b9a132f04f9a" "JAVA" %}})
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
 {{< tdclose >}}{{< tdopen >}}
