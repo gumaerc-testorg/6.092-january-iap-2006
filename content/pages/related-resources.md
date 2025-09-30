@@ -14,8 +14,8 @@ video_metadata:
 
 The following resources provide additional information on Java™ and, in many cases, offer practice problems and examples.
 
-[Java™ API (Collection)](http://java.sun.com/j2se/1.5.0/docs/api/index.html?java/util/Collection.html)
+{{% resource_link "8cdafe1c-de65-4358-b8df-e20405641f44" "Java™ API (Collection)" %}}
 
-[Sun Tutorial](http://java.sun.com/docs/books/tutorial/index.html)
+{{% resource_link "b9b57396-3d51-4f33-9233-22c7f45fcc98" "Sun Tutorial" %}}
 
-Java™ World: "[Java™ 101 Study Guide](https://www.javaworld.com/blog/java-101/)"
+Java™ World: "{{% resource_link "7ed2e49d-5119-4927-9167-a81bb128026a" "Java™ 101 Study Guide" %}}"
